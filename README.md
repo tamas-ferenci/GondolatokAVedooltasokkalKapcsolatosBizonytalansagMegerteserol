@@ -1,0 +1,2 @@
+# GondolatokAVedooltasokkalKapcsolatosBizonytalansagMegerteserol
+Gondolatok a védőoltásokkal kapcsolatos bizonytalanság megértéséről, és a saját portánk előtt söprögetésről
