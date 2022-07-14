@@ -198,9 +198,9 @@ Goldenberg több – kipróbált, vagy elméleti megfontolások alapján szóba 
 Az alábbi plakátkampányt Katie Attwell, a University of Western Australia kutatójának ötlete nyomán az Immunisation Alliance of Western Australia (Nyugat-Ausztráliai Immunizációs Szövetség) futtatta 2014-ben:
 
 <p align="middle">
-  <img src="/1924444_699021693470329_1261073264_n.jpg" width="250" />
-  <img src="/1451356_699021723470326_300893304_n.jpg" width="250" /> 
-  <img src="/1959561_699021743470324_78354890_n.jpg" width="250" />
+  <img src="/1924444_699021693470329_1261073264_n.jpg" width="30%" />
+  <img src="/1451356_699021723470326_300893304_n.jpg" width="30%" /> 
+  <img src="/1959561_699021743470324_78354890_n.jpg" width="30%" />
 </p>
 
 Érdemes megnézni a főbb megfontolásokat: először is, igyekszik úgy megszólalni, hogy közben nem gyalogol bele két lábbal az alany értékeibe, sőt, kimondottan tiszteletben tartja azokat. (Katasztrófa, hogy ehhez képest nálunk hányszor látni, hogy még ha a kérdés fel sem jön, a védőoltások mellett megszólalók akkor is, maguk igyekeznek (!) beráncigálni a vitába, hogy a védőoltás-ellenesek még milyen további alaptalan, áltudományos dolgokban hisznek, hadd sikerüljön őket azért is jól lepofozni és megmutatni, hogy mekkora idióták!) Másodszor, a kampány az identitásra fókuszál, nem a vakcinával kapcsolatos tudományos tényekre. Azok is elérhetőek voltak, természetesen, a plakát-változaton ott a link a honlapra, de nem ez van fókuszban – mert nem ezzel kell kezdeni. Tekintettel van a megcélzott közösség sajátosságaira, és a közös értékeire, példát állít, hogy ezek nem ellentétesek az oltással. Igyekszik oldani az ezzel kapcsolatos kognitív disszonanciát, és megerősíteni, hogy az oltatás egyáltalán nem megy szembe az egyéb értékeivel, sőt, megerősítőleg hat a csoport értékeire, életstílusára, csoportidentitására, hogy ilyen módon is csökkentse az így keletkező feszültséget. Egyszóval: próbálja a kérdés ideológiai töltöttségét csökkenteni. 
