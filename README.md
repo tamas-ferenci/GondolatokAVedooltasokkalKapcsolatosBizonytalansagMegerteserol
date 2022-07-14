@@ -197,7 +197,7 @@ Goldenberg több – kipróbált, vagy elméleti megfontolások alapján szóba 
 
 Az alábbi plakátkampányt Katie Attwell, a University of Western Australia kutatójának ötlete nyomán az Immunisation Alliance of Western Australia (Nyugat-Ausztráliai Immunizációs Szövetség) futtatta 2014-ben:
 
-<p float="left">
+<p align="middle">
   <img src="/1924444_699021693470329_1261073264_n.jpg" width="250" />
   <img src="/1451356_699021723470326_300893304_n.jpg" width="250" /> 
   <img src="/1959561_699021743470324_78354890_n.jpg" width="250" />
