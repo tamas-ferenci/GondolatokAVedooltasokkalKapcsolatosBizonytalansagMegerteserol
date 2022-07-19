@@ -1,11 +1,19 @@
 Gondolatok a védőoltásokkal kapcsolatos bizonytalanság megértéséről, és a saját portánk előtt söprögetésről
 ================
 
-Ferenci Tamás
+Ferenci Tamás (<tamas.ferenci@medstat.hu>)
 
 _„Márpedig ha így van, akkor nem segít az, ha fejeket törünk be, vagy, ahogy néhányan már követelik, fejeket veszünk, hanem az számít, hogy tudjuk-e befolyásolni a történeti indítóokokat és törvényszerűségeket.”_  
 
 _(Horst Herold, idézi Stefan Aust)_
+
+---
+
+Korábbi írásaim:
+
+- [Gondolatok a járványügyi adatok közléséről](https://github.com/tamas-ferenci/GondolatokAJarvanyugyiAdatokKozleserol)
+- [Gondolatok a favipiravir hatásosságáról, és a tudományos véleménynyilvánítás szabadságáról](https://github.com/tamas-ferenci/GondolatokAFavipiravirHatasossagarolEsATudomanyosVelemenynyilvanitasSzabadsagarol)
+- [Gondolatok a járvány elleni védekezés értékeléséről, és a járvány hatásának vizsgálatáról](https://github.com/tamas-ferenci/GondolatokAJarvanyElleniVedekezesErtekeleserolEsAJarvanyHatasanakVizsgalatarol)
 
 ---
 
